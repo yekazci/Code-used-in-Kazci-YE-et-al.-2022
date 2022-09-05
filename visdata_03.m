@@ -1,10 +1,5 @@
 
 
-
-% Following scpipt from "https://bitbucket.org/fowlkes/heart_mapping/src/master/"
- 
-% was used in Kazci YE et al., 2022 article.
-
 %
 % visualize example data (using the provided swc file)
 %

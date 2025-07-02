@@ -2,8 +2,7 @@ This repository contains the data visualisation script used for nerve diameter a
 
 Maximum projection images produced from the whole heart z-stacks were processed in neuTube 1.0 software.
 
-The visdata_03 and stitching_02 scripts were written by Charless C. Fowlkes and used in Rajendran PS. et al., 2019 paper. It was obtained from  "https://bitbucket.org/fowlkes/heart_mapping/src/master/"
-
+The load_trace.m, rendertrace2d_ori.m, rendertrace2d_radius.m, visdata_03 and stitching_02 scripts were written by Charless C. Fowlkes and used in Rajendran PS. et al., 2019 paper. It was obtained from  "https://bitbucket.org/fowlkes/heart_mapping/src/master/"
 
 I wrote a short script to rename the tile .swc files such that they contain the X-Y indices of the tiles in the final stictched .swc file. 
 
